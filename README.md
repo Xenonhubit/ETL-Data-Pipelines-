@@ -27,11 +27,11 @@ DAG Components
     - TSV File Data Extraction
     - Fixed-Width File Data Extraction
 2. Data Transformation Phase
-  - Multi-Format Data Standardization
-  - Data Cleaning and Validation
+   - Multi-Format Data Standardization
+   - Data Cleaning and Validation
 3. Data Loading Phase
-  - Consolidated Data Staging
-  - Pipeline Validation
+   - Consolidated Data Staging
+   - Pipeline Validation
 
 # Business Context
 ## Scenario
